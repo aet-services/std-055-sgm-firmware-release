@@ -1,2 +1,2 @@
-# std-055-slg-firmware-release
-Firmware SmartVOX® SLG
+# std-055-sgm-firmware-release
+Firmware SmartVOX® SGM
